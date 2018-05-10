@@ -41,7 +41,7 @@ try:
     # падения точности контуринга.
     sulphides.pop(0)
 
-    # Расчет долей
+    # Расчет долей.
     oxides_to_sulphides = len(oxides) / len(sulphides)
     sulphides_to_oxides = len(sulphides) / len(oxides)
 
